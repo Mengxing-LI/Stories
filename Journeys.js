@@ -38,43 +38,6 @@ var config = {
                 }
             ]
         },
-        /*
-        {
-            id: 'rainbow1998',
-            alignment: 'left',
-            title: 'Rainbow Glacier, 1998',
-            image: '',
-            description: 'Rainbow Glacier is in Glacier National Park in the U.S. state of Montana. The glacier is situated immediately to the east of Rainbow Peak at an elevation between 8,500 feet (2,600 m) and 8,000 feet (2,400 m) above sea level. The glacier has visible crevasses in satellite imagery. Rainbow Glacier has shown modest retreat compared to other glaciers in Glacier National Park.',
-            location: {
-                center: [0, 0],//World
-                zoom: 0,
-                pitch: 50.00,
-                bearing: 0
-            },
-            onChapterEnter: [],
-            onChapterExit: []
-        },
-        {
-            id: 'harrison1998',
-            alignment: 'left',
-            title: 'Harrison Glacier, 1998',
-            image: '',
-            description: 'Harrison Glacier is located in the US state of Montana in Glacier National Park. Situated on a southeast facing ridge immediately south of Mount Jackson, Harrison Glacier is the largest glacier in Glacier National Park. Compared to many of the vanishing glaciers in Glacier National Park, Harrison Glacier has a much higher altitude accumulation zone (approximately 9,000 feet (2,700 m)) which has allowed it to maintain some equilibrium in its glacier mass balance.',
-            location: {
-                center: [0, 0],//World
-                zoom: 0,
-                pitch: 40,
-                bearing: 0
-            },
-            onChapterEnter: [],
-            onChapterExit: [
-                // {
-                //     layer: 'gnpglaciers-2015',
-                //     opacity: 0
-                // }
-            ]
-        },
-        */
         {
             id: 'Wuhan',
             alignment: 'right',
@@ -295,7 +258,7 @@ var config = {
             id: 'Melbourne',
             alignment: 'right',
             title: 'Melbourne, 2021 Jul',
-            image: 'pics/12.JPG',
+            image: 'pics/12.png',
             description: 'After a long journey marathon, I finally made it to Melbourne and met the rest of the lab!<br><br>This pandemic has brought too many challenges to everyone\'s life, including me. Thanks to all medical workers who have worked hard to fight the virus, I sincerely hope that this epidemic will end soon, and I wish everyone stay safe and healthy.',
             location: {
                 center: [145.2591, -37.8054],//Melbourne

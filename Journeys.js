@@ -147,7 +147,7 @@ var config = {
         {
             id: 'Colombo',
             alignment: 'right',
-            title: 'Colombo, Sri Lanka 2020 Jul',
+            title: 'Colombo, Sri Lanka, 2020 Jul,
             image: 'pics/6.png',
             description: 'Our commercial charter flight with Sri Lanka Airlines required a connecting flight in Colombo. All passengers on the plane took the initiative to take precautions. There are more than half of the empty seats on the plane, but the airline arranges everyone to sit together instead of sitting apart to reduce the risk of infection for everyone. Sri Lanka Airlines was later suspended for a month after 15 people on board became infected.',
             location: {
@@ -202,7 +202,7 @@ var config = {
         {
             id: 'Shenzhen',
             alignment: 'right',
-            title: 'Shenzhen, China 2021 Apr',
+            title: 'Shenzhen, China, 2021 Apr',
             image: 'pics/9.jpg',
             description: 'After receiving two doses of the covid vaccine and started to prepare several documents for entry requirements. At this time, it was hard to find a ticket, so I bought a flight ticket from Shenzhen to Sydney with a connecting flight in Singapore.',
             location: {
@@ -242,7 +242,7 @@ var config = {
         {
             id: 'Sydeny',
             alignment: 'right',
-            title: 'Sydeny, 2021 Jun',
+            title: 'Sydeny, Australia, 2021 Jun',
             image: 'pics/11.png',
             description: 'Few passengers were on the plane due to restrictions on entry and exit from Australia. After arriving at the airport, all passengers and staffs took a bus to the quarantine hotel for check-in. I was very lucky to be assigned a room with a beautiful view from the window. But unexpectedly, the number of infections in Sydney has been increasing day by day and has been upgraded to a red zone, which greatly increased the difficulty for me to travel to Melbourne in the future.',
             location: {
@@ -257,7 +257,7 @@ var config = {
         {
             id: 'Melbourne',
             alignment: 'right',
-            title: 'Melbourne, 2021 Jul',
+            title: 'Melbourne, Australia, 2021 Jul',
             //image: 'pics/11.png',
             description: 'After a long journey marathon, I finally made it to Melbourne and met the rest of the lab!<br><br>This pandemic has brought too many challenges to everyone\'s life, including me. Thanks to all medical workers who have worked hard to fight the virus, I sincerely hope that this epidemic will end soon, and I wish everyone stay safe and healthy.',
             location: {

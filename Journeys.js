@@ -258,7 +258,7 @@ var config = {
             id: 'Melbourne',
             alignment: 'right',
             title: 'Melbourne, 2021 Jul',
-            image: 'pics/11.png',
+            //image: 'pics/11.png',
             description: 'After a long journey marathon, I finally made it to Melbourne and met the rest of the lab!<br><br>This pandemic has brought too many challenges to everyone\'s life, including me. Thanks to all medical workers who have worked hard to fight the virus, I sincerely hope that this epidemic will end soon, and I wish everyone stay safe and healthy.',
             location: {
                 center: [145.2591, -37.8054],//Melbourne

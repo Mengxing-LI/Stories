@@ -70,7 +70,7 @@ var config = {
             alignment: 'right',
             title: 'Chiba, Japan, 2020 Feb',
             image: 'pics/2.png',
-            description: 'After my graduation, I went to Japan for my 6-month internship at one of the United Nations offices. It is called SIAP (the Statistical Institute for Asia and the Pacific), affiliated with ESCAP (the Economic and Social Commission for Asia and the Pacific). I learned so much from my daily work, colleagues, and participants from different countries, which have greatly enriched my horizons. Luckily, I also got a doctoral scholarship offer at Monash University and another internship offer at UNEP (the United Nations Environment Programme). <br><br> The future seems promising before Feb 2020. I booked a flight to my hometown and planned to celebrate the Spring festival with my family. However, entry and exit requirements changed rapidly in Feb 2020. After seveal countries banned entry to passengers with Chinese passports, I had to rethink my future for a very limited time as my current Japanese visa would be expired in two days. If I continue to go back to China, I would have to stay in strict quarantine without income for a long time. And I didn\'t know when I would be allowed to entry Australia to enrol my doctoral studies. <br><br>After losing sleep all night, I makde a very difficult decision - go to Africa for UNEP internship to fill the gap before enroling.',
+            description: 'After my graduation, I went to Japan for my 6-month internship at one of the United Nations offices. It is called SIAP (the Statistical Institute for Asia and the Pacific), affiliated with ESCAP (the Economic and Social Commission for Asia and the Pacific). I learned so much from my daily work, colleagues, and participants from different countries, which have greatly enriched my horizons. Luckily, I also got a doctoral scholarship offer at Monash University and another internship offer at UNEP (the United Nations Environment Programme). <br><br> The future seems promising before Feb 2020. I booked a flight to my hometown and planned to celebrate the Spring festival with my family. However, entry and exit requirements changed rapidly in Feb 2020. After several countries banned entry to passengers with Chinese passports, I had to rethink my future for a very limited time as my current Japanese visa would be expired in two days. If I continue to go back to China, I would have to stay in strict quarantine without income for a long time. I didn\'t know when I would be allowed to enter Australia to enrol on my doctoral studies. <br><br>After losing sleep all night, I made a very difficult decision - go to Africa for the UNEP internship to fill the gap before enroling.',
             location: {
                 center: [140.135, 35.67],//Chiba
                 zoom: 8,
@@ -110,7 +110,7 @@ var config = {
             alignment: 'right',
             title: 'Nairobi, Kenya, 2020 Feb',
             image: 'pics/4.png',
-            description: 'Life was happiest and freest when I first arrived in Africa, when there were no cases of Covid-19. I went to the safari, fed the giraffes at the giraffe park and went to the elephant nursery to see baby elephants with other UN interns whom I had never met. After safari, I went to the UN complex for onboarding. <br><br>A week later, the United Nations building was closed due to a Covid-19 case in Kenya, and everyone was working from home instead. Sadly, I also lost the opportunity to meet new firends and other colleagues face-to-face. <br><br>Kenya closed its borders on March 25 and all international flights were cancelled as the number of cases gradually increased. Many United Nations organizations have begun to stop recruiting new interns, and interns who have received offers but have not yet joined have been forced to cancel their internships because they cannot reach the country where the internship is located. I was fortunate enough to be the last intern to join in Nairobi. <br><br>I had to extend my internship from three months to six months due to the 6-month lockdown in Kenya. I was also applying for an Australian student visa for my PhD studies. However, due to the lockdown, all visa centers and health examination centers are closed. My plans to go directly to Australia from Kenya to study were dashed. <br><br>At the end of July, my internship was also coming to an end. I had a hunch that the pandemic would not stop in the short term, so I decided to go back to my country to be with my family. I left Kenya on a UN retrieval flight and came to Dubai to take a commercial charter flight back to China. ',
+            description: 'Life was happiest and freest when I first arrived in Africa, when there were no cases of Covid-19. I went to a safari, fed the giraffes at the giraffe park and went to the elephant nursery to see baby elephants with other UN interns whom I had never met. After the safari, I went to the UN complex for onboarding. <br><br>A week later, the United Nations building was closed due to a COVID-19 case in Kenya, and everyone was working from home instead. Sadly, I also lost the opportunity to meet new firends and other colleagues face-to-face. <br><br>Kenya closed its borders on March 25 and all international flights were cancelled as the number of cases gradually increased. Many United Nations organizations have begun to stop recruiting new interns, and interns who have received offers but have not yet joined have been forced to cancel their internships because they cannot reach the country where the internship is located. I was fortunate enough to be the last intern to join in Nairobi. <br><br>I had to extend my internship from three months to six months due to the 6-month lockdown in Kenya. I was also applying for an Australian student visa for my PhD studies. However, due to the lockdown, all visa centers and health examination centers are closed. My plans to go directly to Australia from Kenya to study were dashed. <br><br>At the end of July, my internship was also coming to an end. I had a hunch that the pandemic would not stop in the short term, so I decided to go back to my country to be with my family. I left Kenya on a UN retrieval flight and came to Dubai to take a commercial charter flight back to China. ',
             location: {
                 center: [36.8207, -1.2728],//Kenya
                 zoom: 10,
@@ -125,7 +125,7 @@ var config = {
             alignment: 'right',
             title: 'Dubai, UAE, 2021 Jul',
             image: 'pics/5.png',
-            description: 'As soon as all passengers got off the plane, we were taken for COVID testing. There were still two days of transit time, so I decided to go skydiving to Palm Island to fulfill one of my little wishes.',
+            description: 'As soon as all passengers got off the plane, we were taken for COVID testing. There were still two days of transit time, so I decided to go skydiving to Palm Island to fulfil one of my little wishes.',
             location: {
                 center: [55.2950, 25.2850],//Dubai
                 zoom: 6,
@@ -150,7 +150,7 @@ var config = {
             alignment: 'right',
             title: 'Colombo, Sri Lanka, 2020 Jul',
             image: 'pics/6.png',
-            description: 'Our commercial charter flight with Sri Lanka Airlines required a connecting flight in Colombo. All passengers on the plane took the initiative to take precautions. There are more than half of the empty seats on the plane, but the airline arranges everyone to sit together instead of sitting apart to reduce the risk of infection for everyone. Sri Lanka Airlines was later suspended for a month after 15 people on board became infected.',
+            description: 'Our commercial charter flight with Sri Lanka Airlines required a connecting flight in Colombo. All passengers on the plane took the initiative to take precautions. There are more than half of the empty seats on the plane, but the airline arranges for everyone to sit together instead of sitting apart to reduce the risk of infection for everyone. Sri Lanka Airlines was later suspended for a month after 15 people on board became infected.',
             location: {
                 center: [79.8528, 6.9482],//Sri Lanka, Colombo
                 zoom: 8,
@@ -165,7 +165,7 @@ var config = {
             alignment: 'right',
             title: 'Shanghai, China, 2020 Aug',
             image: 'pics/7.jpg',
-            description: 'In the early morning of August 1st, we arrived at Shanghai Airport. What followed was a 14-day hotel quarantine. The quarantine fee includes 280 RMB for hotel accommodation and 100 RMB for food per day. If someone want to eat something else, they can also order takeout from other restaurants. <br><br>There are about 2-3 PCR tests during the isolation, and everyone need to take their own temperature every morning and tell the nurse. <br><br>I was working online every day, chatting with family and friends, and doing indoor sports, which made my isolation life very fulfilling.',
+            description: 'In the early morning of August 1st, we arrived at Shanghai Airport. What followed was a 14-day hotel quarantine. The quarantine fee includes 280 RMB for hotel accommodation and 100 RMB for food per day. If someone wants to eat something else, they can also order takeout from other restaurants. <br><br>There are about 2-3 PCR tests during the isolation, and everyone needs to take their own temperature every morning and tell the nurse. <br><br>I was working online every day, chatting with family and friends, and doing indoor sports, which made my isolation life very fulfilling.',
             location: {
                 center: [121.49, 31.2451],//Shanghai
                 zoom: 8,
@@ -190,7 +190,7 @@ var config = {
             alignment: 'right',
             title: 'Puyang, China, 2020 Aug - 2021 Jun',
             image: 'pics/8.png',
-            description: 'I went back to my hometown after 14 days, but the quarantine life is not over. All people who return to Puyang from abroad need to be quarantined in the hotel for two days and do a PCR test. <br><br>I can finally be reunited with my families when my quarantine is over. In the next few months, I also got my student visa successfully.<br><br>In May 2021, I got my Australian travel exemption with the help of my supervisors, which allowed me to start my doctoral studies. Everything started to get better.',
+            description: 'I went back to my hometown after 14 days, but the quarantine life is not over. All people who return to Puyang from abroad need to be quarantined in the hotel for two days and do a PCR test. <br><br>I can finally be reunited with my family when my quarantine is over. In the next few months, I also got my student visa successfully.<br><br>In May 2021, I got my Australian travel exemption with the help of my supervisors, which allowed me to start my doctoral studies. Everything started to get better.',
             location: {
                 center: [115.0159, 35.8866],//Puyang
                 zoom: 7,
@@ -245,7 +245,7 @@ var config = {
             alignment: 'right',
             title: 'Sydeny, Australia, 2021 Jun',
             image: 'pics/11.png',
-            description: 'Few passengers were on the plane due to restrictions on entry and exit from Australia. After arriving at the airport, all passengers and staffs took a bus to the quarantine hotel for check-in. I was very lucky to be assigned a room with a beautiful view from the window. But unexpectedly, the number of infections in Sydney has been increasing day by day and has been upgraded to a red zone, which greatly increased the difficulty for me to travel to Melbourne in the future.',
+            description: 'Few passengers were on the plane due to restrictions on entry and exit from Australia. After arriving at the airport, all passengers and staff took a bus to the quarantine hotel for check-in. I was very lucky to be assigned a room with a beautiful view from the window. But unexpectedly, the number of infections in Sydney has been increasing day by day and has been upgraded to a red zone, which greatly increased the difficulty for me to travel to Melbourne in the future.',
             location: {
                 center: [151.2, -33.85],//Sydeny
                 zoom: 7,
